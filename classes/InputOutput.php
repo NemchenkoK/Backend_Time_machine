@@ -8,7 +8,7 @@ class InputOutput{
       foreach($res as $row){
         $result .= $row.'<br>';
       }
-    }else{
+    } else {
       $result = 'Error reading file!';
       return $result;
     }
