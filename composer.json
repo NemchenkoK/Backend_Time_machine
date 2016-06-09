@@ -1,0 +1,15 @@
+{
+  "name": "vendor/time_machine",
+  "description": "Time machine",
+  "authors": [
+    {
+      "name": "Konstantin Nemchenko",
+      "email": "nemchenko.k.k@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "classmap": ["classes/"]
+  }
+}
